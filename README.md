@@ -58,6 +58,6 @@
     <img src="girlfriend.jpg" alt="My Girlfriend" />
   </div>
 
-  <p class="footer">Forever yours, [Your Name]</p>
+  <p class="footer">Forever yours,jems maharaj</p>
 </body>
 </html>
