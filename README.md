@@ -55,7 +55,7 @@
   <p>Wishing you a day full of surprises, laughter, and sweet memories.</p>
 
   <div class="photo">
-    <img src="girlfriend.jpg" alt="My Girlfriend" />
+    <img src="Rashmi.JPG" alt="My Girlfriend" />
   </div>
 
   <p class="footer">Forever yours,jems maharaj</p>
