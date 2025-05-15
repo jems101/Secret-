@@ -111,7 +111,7 @@
     <h1>Welcome to My Heart</h1>
     <div class="heart" onclick="connectHeart()"></div>
     <p id="message"></p>
-    <audio id="loveSong" src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"></audio>
+    <audio id="loveSong" src="https://https://m.soundcloud.com/reymuel-espino/lady-gaga-bruno-mars-die-with"></audio>
   </div>
 
   <script>
